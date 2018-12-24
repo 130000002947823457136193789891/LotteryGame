@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/12/24 10:24:23。
+     1>项目“C:\Users\16770\Documents\数据结构课程设计\LotteryGame\LotteryGame\LotteryGame.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LotteryGame.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt LotteryGameDlg.cpp
+         LotteryGameDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\16770\Documents\数据结构课程设计\LotteryGame\Debug\LotteryGame.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\16770\Documents\数据结构课程设计\LotteryGame\Debug\LotteryGame.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\16770\Documents\数据结构课程设计\LotteryGame\Debug\LotteryGame.lib" /MACHINE:X86 Debug\LotteryGame.res
+         Debug\LotteryGame.obj
+         Debug\LotteryGameDlg.obj
+         Debug\stdafx.obj
+         LotteryGame.vcxproj -> C:\Users\16770\Documents\数据结构课程设计\LotteryGame\Debug\LotteryGame.exe
+     1>已完成生成项目“C:\Users\16770\Documents\数据结构课程设计\LotteryGame\LotteryGame\LotteryGame.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.61
